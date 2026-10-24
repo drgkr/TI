@@ -1,5 +1,126 @@
 {
   "schemaVersion": 1,
   "description": "Approved evidence-backed Telugu film ratings keyed by TMDB movie ID. Films without a record remain Not Yet Rated.",
-  "ratings": {}
+  "ratings": {
+    "857598": {
+      "title": "Pushpa 2 - The Rule",
+      "assessedAt": "2026-10-24",
+      "confidence": "Medium",
+      "scores": { "writing": 48, "emotion": 64, "pacing": 42, "performances": 86, "rewatch": 68, "critics": 55, "audience": 82 },
+      "sources": [
+        { "name": "Anandu Suresh — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/pushpa-2-the-rule-review-allu-arjun-fahadh-faasil-film-chokes-under-the-weight-of-performance-pressure-9706694/", "kind": "Lead critic", "weight": 20 },
+        { "name": "New Indian Express review", "url": "https://www.newindianexpress.com/entertainment/review/2024/Dec/05/pushpa-2-the-rule-movie-review-where-ego-sparks-a-wildfire", "kind": "Second lead critic", "weight": 20 },
+        { "name": "Bollywood.com multi-critic review panel", "url": "https://www.bollywood.com/movies/pushpa-2-the-rule/reviews/", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/857598", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1239511": {
+      "title": "Lucky Baskhar",
+      "assessedAt": "2026-10-24",
+      "confidence": "High",
+      "scores": { "writing": 82, "emotion": 75, "pacing": 78, "performances": 88, "rewatch": 82, "critics": 82, "audience": 86 },
+      "sources": [
+        { "name": "Anandu Suresh — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/lucky-baskhar-movie-review-a-terrific-dulquer-salmaan-powers-this-brilliant-venky-atluri-film-9646751/", "kind": "Lead critic", "weight": 20 },
+        { "name": "Paul Nicodemus — The Times of India", "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/lucky-baskhar/movie-review/114803404.cms", "kind": "Second lead critic", "weight": 20 },
+        { "name": "Critical reception review panel", "url": "https://en.wikipedia.org/wiki/Lucky_Baskhar#Critical_reception", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/1239511", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1424217": {
+      "title": "Court: State vs. A Nobody",
+      "assessedAt": "2026-10-24",
+      "confidence": "Medium",
+      "scores": { "writing": 72, "emotion": 80, "pacing": 68, "performances": 84, "rewatch": 76, "critics": 74, "audience": 82 },
+      "sources": [
+        { "name": "Avinash Ramachandran — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/court-state-vs-a-nobody-movie-review-priyadarshi-anchors-an-entertaining-legal-drama-that-settles-for-less-9886229/", "kind": "Lead critic", "weight": 20 },
+        { "name": "Paul Nicodemus — The Times of India", "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/court-state-vs-a-nobody/etmoviereview/118987336.cms", "kind": "Second lead critic", "weight": 20 },
+        { "name": "Sanjay Ponnappa — India Today", "url": "https://www.indiatoday.in/movies/reviews/story/court-state-vs-a-nobody-review-nani-priyadarshi-courtroom-drama-2693475-2025-03-14", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/1424217", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1060046": {
+      "title": "HIT: The Third Case",
+      "assessedAt": "2026-10-24",
+      "confidence": "Medium",
+      "scores": { "writing": 52, "emotion": 50, "pacing": 66, "performances": 84, "rewatch": 62, "critics": 60, "audience": 72 },
+      "sources": [
+        { "name": "Avinash Ramachandran — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/hit-3-movie-review-an-effective-nani-sees-red-in-this-bloody-but-rocky-action-drama-9977560/", "kind": "Lead critic", "weight": 20 },
+        { "name": "Paul Nicodemus — The Times of India", "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/hit-the-3rd-case/movie-review/120790561.cms", "kind": "Second lead critic", "weight": 20 },
+        { "name": "Sanjay Ponnappa — India Today", "url": "https://www.indiatoday.in/movies/reviews/story/hit-3-movie-review-nani-film-has-its-moments-but-it-is-more-a-miss-than-a-hit-2718036-2025-05-01", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/1060046", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1380920": {
+      "title": "Sankranthiki Vasthunam",
+      "assessedAt": "2026-10-24",
+      "confidence": "Medium",
+      "scores": { "writing": 64, "emotion": 62, "pacing": 67, "performances": 76, "rewatch": 82, "critics": 68, "audience": 84 },
+      "sources": [
+        { "name": "T Maruthi Acharya — India Today", "url": "https://www.indiatoday.in/movies/reviews/story/sankranthiki-vasthunnam-review-venkatesh-ravipudi-deliver-a-generic-but-fun-film-2664483-2025-01-14", "kind": "Lead critic", "weight": 20 },
+        { "name": "New Indian Express review", "url": "https://www.newindianexpress.com/entertainment/review/2025/Jan/16/sankranthiki-vasthunam-movie-review-an-almost-overwhelming-rollercoaster-of-a-feast", "kind": "Second lead critic", "weight": 20 },
+        { "name": "Critical reception review panel", "url": "https://en.wikipedia.org/wiki/Sankranthiki_Vasthunam#Critical_reception", "kind": "Additional critic", "weight": 40 },
+        { "name": "Rotten Tomatoes verified audience", "url": "https://www.rottentomatoes.com/m/sankranthiki_vasthunam", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "811944": {
+      "title": "Game Changer",
+      "assessedAt": "2026-10-24",
+      "confidence": "Medium",
+      "scores": { "writing": 48, "emotion": 58, "pacing": 45, "performances": 78, "rewatch": 55, "critics": 50, "audience": 58 },
+      "sources": [
+        { "name": "Avinash Ramachandran — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/game-changer-the-rule-movie-review-a-riveting-ram-charan-anchors-a-middling-shankar-showreel-that-needed-upgrades-9771339/", "kind": "Lead critic", "weight": 20 },
+        { "name": "Janani K — India Today", "url": "https://www.indiatoday.in/movies/reviews/story/game-changer-review-ram-charan-excels-shankar-settles-for-mediocrity-2662790-2025-01-10", "kind": "Second lead critic", "weight": 20 },
+        { "name": "The Times of India review", "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/game-changer/movie-review/117105664.cms", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/811944", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1208735": {
+      "title": "Thandel",
+      "assessedAt": "2026-10-24",
+      "confidence": "Medium",
+      "scores": { "writing": 52, "emotion": 74, "pacing": 50, "performances": 82, "rewatch": 60, "critics": 56, "audience": 70 },
+      "sources": [
+        { "name": "Anandu Suresh — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/thandel-movie-review-sai-pallavi-naga-chaitanya-shoulder-a-layered-romance-9822886/", "kind": "Lead critic", "weight": 20 },
+        { "name": "T Maruthi Acharya — India Today", "url": "https://www.indiatoday.in/movies/reviews/story/thandel-review-naga-chaitanya-sai-pallavi-shine-in-a-patchy-emotional-drama-2676180-2025-02-07", "kind": "Second lead critic", "weight": 20 },
+        { "name": "Nowrunning multi-critic review panel", "url": "https://www.nowrunning.com/movie/28929/thandel/reviews/", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/1208735", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1171101": {
+      "title": "Kuberaa",
+      "assessedAt": "2026-10-24",
+      "confidence": "High",
+      "scores": { "writing": 72, "emotion": 78, "pacing": 64, "performances": 88, "rewatch": 70, "critics": 74, "audience": 76 },
+      "sources": [
+        { "name": "The Indian Express review", "url": "https://indianexpress.com/article/entertainment/movie-review/kuberaa-movie-review-dhanush-shines-bright-in-mindful-massy-film-10078003/", "kind": "Lead critic", "weight": 20 },
+        { "name": "Paul Nicodemus — The Times of India", "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/kuberaa/movie-review/121974766.cms", "kind": "Second lead critic", "weight": 20 },
+        { "name": "B H Harsh — New Indian Express", "url": "https://www.newindianexpress.com/entertainment/review/2025/Jun/21/kuberaa-movie-review-a-searingly-humane-socio-political-thriller", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/1171101", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1196348": {
+      "title": "The Girlfriend",
+      "assessedAt": "2026-10-24",
+      "confidence": "High",
+      "scores": { "writing": 76, "emotion": 84, "pacing": 66, "performances": 90, "rewatch": 72, "critics": 76, "audience": 78 },
+      "sources": [
+        { "name": "Swaroop Kodur — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/the-girlfriend-movie-review-rashmika-mandanna-elevates-the-film-with-grace-and-vulnerability-10351712/", "kind": "Lead critic", "weight": 20 },
+        { "name": "The Times of India review", "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/the-girlfriend/movie-review/125168213.cms", "kind": "Second lead critic", "weight": 20 },
+        { "name": "Rotten Tomatoes critic panel", "url": "https://www.rottentomatoes.com/m/the_girlfriend_2025", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/1196348", "kind": "Audience", "weight": 20 }
+      ]
+    },
+    "1440700": {
+      "title": "Little Hearts",
+      "assessedAt": "2026-10-24",
+      "confidence": "High",
+      "scores": { "writing": 72, "emotion": 68, "pacing": 82, "performances": 78, "rewatch": 86, "critics": 78, "audience": 84 },
+      "sources": [
+        { "name": "Swaroop Kodur — The Indian Express", "url": "https://indianexpress.com/article/entertainment/movie-review/little-hearts-movie-review-a-madcap-comedy-that-hits-the-right-notes-10235591/", "kind": "Lead critic", "weight": 20 },
+        { "name": "Paul Nicodemus — The Times of India", "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/little-hearts/movie-review/123746335.cms", "kind": "Second lead critic", "weight": 20 },
+        { "name": "B H Harsh — Cinema Express", "url": "https://www.cinemaexpress.com/telugu/review/2025/Sep/05/little-hearts-movie-review-unhinged-unserious-unabashedly-hilarious", "kind": "Additional critic", "weight": 40 },
+        { "name": "TMDB audience rating", "url": "https://www.themoviedb.org/movie/1440700", "kind": "Audience", "weight": 20 }
+      ]
+    }
+  }
 }
